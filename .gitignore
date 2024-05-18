@@ -1,0 +1,4 @@
+# Ignore virtual environment
+myVenv/
+export.bat
+requirements.txt

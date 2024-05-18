@@ -20,12 +20,12 @@ This project aims to facilitate users in transferring data between Excel files a
 ## Installation ⚙
 
  - Create a Virtual Environtment in your project
-	 `python -m venv  _your_venv_name_ `
+   > python -m venv  _your_venv_name_
    <p> You can see Documentation of Python venv in <a href="https://python.land/virtual-environments/virtualenv"> Here. </a>
  - Activate the venv
-	`source .\ _your_venv_name_\Scripts\Activate`
+   > source .\ _your_venv_name_\Scripts\Activate
  - Install the Required Libraries
-	 `pip install _your_library_Name_`
+	 `pip install _your_library_Name_
  
 	| 	Libraries		| 		Version  	|
 	|-----------------|-----------------|

@@ -25,7 +25,7 @@ This project aims to facilitate users in transferring data between Excel files a
  - Activate the venv
    > source .\ _your_venv_name_\Scripts\Activate
  - Install the Required Libraries
-	 `pip install _your_library_Name_
+   > pip install _your_library_Name_
  
 	| 	Libraries		| 		Version  	|
 	|-----------------|-----------------|

@@ -34,8 +34,8 @@ This project aims to facilitate users in transferring data between Excel files a
 	| Pyler				|  	2.1.0			|
 
 ## Thanks for Supporting
-####  Buy Me a Coffee?? ☕
-Click on this   <a href="https://saweria.co/Ganesyk">Links</a>
+####  Support me by 👇
+Click on this   <a href="https://www.paypal.com/paypalme/GYudhaKusuma">Links</a>
 <br>
 >Author : <a href="https://github.com/Ganesyk12">Ganes Yudha Kusuma</a>
 > _Copyright : @2024_
